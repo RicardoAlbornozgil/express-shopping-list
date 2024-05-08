@@ -35,4 +35,4 @@ class Item {
         items.splice(foundIdx, 1)
     }
 }
-module.exports = item;
+module.exports = Item;
